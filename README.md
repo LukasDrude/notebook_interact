@@ -7,3 +7,4 @@ Then navigate your IPython notebook to the repository folder and open the UsageE
 
 ![Screenshot](example.png)
 
+The JS code is based on this demo: [HTML5-Canvas-Brush-Sketch](https://github.com/triceam/HTML5-Canvas-Brush-Sketch)
